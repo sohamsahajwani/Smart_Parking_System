@@ -1,0 +1,71 @@
+.loginForm {
+    width: 30vw;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 32vw;
+    margin-top: 10vh;
+    padding: 5vh 2vw;
+}
+
+.loginForm h4{
+    color: #143D59;
+    font-weight: 500px;
+    font-size: 20px;
+}
+
+.loginForm label {
+    margin-top: 1.8vh;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.loginForm input {
+    margin: 1.4vh 0;
+    margin-bottom: 2vh;
+    width: 25vw;
+    height: 6vh;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.loginForm .button {
+    margin-top: 3vh;
+    background-color: #143D59;
+    color: white;
+    height: 7vh;
+}
+
+.loginForm .button:hover {
+    background-color: #2a4c63;
+}
+
+.signup {
+    display: flex;
+}
+
+.siup{
+    color: #606060;
+    margin-top: 0.5vh;
+    margin-bottom: 2vh;
+}
+
+.signup a{
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 0.8vw;
+    margin-top: -100vh;
+}
+
+.admin-button {
+    margin-top: 1vh;
+    background-color: #143D59;
+    color: white;
+    height: 7vh;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 25vw;
+}
+
+.admin-button:hover {
+    background-color: #2a4c63;
+}

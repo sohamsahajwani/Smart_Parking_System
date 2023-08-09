@@ -1,0 +1,15 @@
+.alr{
+    display: flex;
+}
+
+.al{
+    margin: 30vh 6vw;
+    border: 1.5px solid black;
+    padding: 2vh 1vw;
+    border-radius: 8px;
+}
+
+.ar{
+    margin-top: 5vh;
+    margin-left: 9vw;
+}

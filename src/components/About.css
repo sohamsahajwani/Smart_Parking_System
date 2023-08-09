@@ -1,0 +1,103 @@
+.aboutpage{
+    padding: 4vh 5vw;
+}
+
+.aboutpage h2{
+   margin-left: 37vw;
+   margin-top: 0.5vh;
+}
+
+.aboutpage button {
+    float: left;
+}
+
+.ctre{
+    text-align: center;
+    align-items: center;
+    padding-left: 17.5vw;
+}
+
+
+.abtus{
+    margin-top: 5vh;
+    width: 55vw;
+    text-align: center;
+}
+
+.abtus p{
+    font-size: 1.6vw;
+}
+
+.works{
+    margin-top: 5vh;
+    width: 55vw;
+    text-align: center;
+}
+
+.works p{
+    font-size: 1.6vw;
+}
+
+.generate{
+    margin-top: 5vh;
+    width: 55vw;
+    text-align: center;
+}
+
+.generate p{
+    font-size: 1.6vw;
+}
+
+.scan{
+    margin-top: 5vh;
+    width: 55vw;
+    text-align: center;
+}
+
+.scan p{
+    font-size: 1.6vw;
+}
+
+.book{
+    margin-top: 5vh;
+    width: 55vw;
+    text-align: center;
+}
+
+.book p{
+    font-size: 1.6vw;
+}
+
+.benefits{
+    margin-top: 5vh;
+    width: 55vw;
+    margin-right: 15vw;
+    text-align: center;
+}
+
+.benefits p{
+    font-size: 1.6vw;
+}
+
+.support{
+    margin-top: 5vh;
+    width: 55vw;
+    text-align: center;
+}
+
+.support p{
+    font-size: 1.6vw;
+}
+
+.h_line{
+    border-bottom: 1.5px solid darkgray;
+    width: 45vw;
+    margin-left: 5vw;
+    margin-top: 5vh;
+}
+
+.aboutpage .btn{
+    border: none;
+    font-size: 18px;
+    color: gray;
+}

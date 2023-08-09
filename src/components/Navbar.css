@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #143D59;
+}
+
+.header h2{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.nav-menu {
+    display: flex;
+    margin-top: 2vh;
+}
+
+.nav-menu li {
+    padding: 0 1rem;
+}
+
+.nav-menu li a{
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+}
+
+.header ul {
+    list-style-type: none;
+}

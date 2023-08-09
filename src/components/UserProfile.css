@@ -1,0 +1,52 @@
+.userpro {
+    background-image: url(/src/images/userprofile.jpeg);
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.userpro h1 {
+    text-align: center;
+    padding-top: 6vh;
+    padding-bottom: 6vh;
+    font-size: 4vw;
+    font-weight: 400;
+}
+
+.userpro h5 {
+    padding: 3vh;
+    padding-left: 5vw;
+    font-size: 2.5vw;
+    font-weight: 400;
+}
+
+.upro {
+    display: flex;
+}
+
+.userprol{
+    width: 55vw;
+}
+
+.userpror img {
+    width: 17vw;
+    height: 17vw;
+    margin-left: 15vw;
+    margin-top: 2vh;
+}
+
+.qr-button {
+    margin-top: 5vh;
+    margin-left: 16vw;
+    background-color: white;
+    color: black;
+    height: 7vh;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 15vw;
+    font-size: 1.7vw;
+}
+
+.qr-button:hover {
+    background-color: rgb(228, 214, 240);
+}

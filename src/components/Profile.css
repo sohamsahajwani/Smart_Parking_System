@@ -1,0 +1,97 @@
+.adminprofile h1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 400;
+    margin-top: 3vh;
+}
+
+.ap {
+    display: flex;
+    margin: 5vh 5vw;
+}
+
+.apl{
+    width: 20vw;
+    text-align: center;
+    margin-right: 3vw;
+}
+
+.apl h4{
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: 2vh;
+}
+
+.apl img{
+    margin-top: 4vh;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.apl button{
+    margin-top: 15vh;
+}
+
+.apr{
+    width: 45vw;
+    padding: 4vh 3vw;
+    margin-left: 3vw;
+}
+
+.aprlr{
+    display: flex;
+}
+
+.aprl{
+    width: 22.5vw;
+}
+
+.aprr{
+    width: 22.5vw;
+}
+
+.zz{
+    border: 1px solid black;
+    width: 18vw;
+    height: 5vh;
+    padding: 2px;
+    padding-left: 0.5vw;
+    margin-top: 2vh;
+    margin-bottom: 4vh;
+    border-radius: 3px;
+    font-weight: 1.8px;
+    color: rgb(71, 68, 68);
+}
+
+.apr h3{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.vl{
+    border-left: 1.3px solid gray;
+    height: 370px;
+}
+
+.button-3 {
+  background-color: #143D59;
+  border: 1px solid rgba(27, 31, 35, .15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 600;
+  padding: 6px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+}
+
+.button-3:hover {
+  background-color: #2e4f65;
+}
